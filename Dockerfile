@@ -1,4 +1,4 @@
-FROM 
+FROM sulinggg/openwrt:x86_64
 
 RUN echo root:wangjm1234|chpasswd
 
